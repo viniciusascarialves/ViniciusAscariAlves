@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Vinicius Ascari Alves
+# 👨‍💻 Vinicius Ascari Alves
 
 **`Desenvolvedor Front-End`**
 
